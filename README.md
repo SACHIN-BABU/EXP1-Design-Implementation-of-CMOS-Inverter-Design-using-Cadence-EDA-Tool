@@ -111,13 +111,6 @@ iv)	Creating the new test cell view
 ![Screenshot 2024-08-29 001402](https://github.com/user-attachments/assets/6019b745-da3c-4973-95d4-11fd5e33b285)
 
 
-
-
-
-
-
-
-
 ### For DC Analysis Settings and Output:
 
 ![Screenshot 2024-08-29 001923](https://github.com/user-attachments/assets/075a1bb5-be93-417b-8886-11449153d260)
